@@ -23,7 +23,7 @@ Technologies used:
 
 ## CV771-Report
 
-The final version of the facial-recognition-based attendance system builds on top of the CheeseHacks project with a liveness detection check. This repo also contains a report I wrote and a presentation I gave for my CS771 class.
+The final version of the facial-recognition-based attendance system builds on top of the CheeseHacks project with a liveness detection check. This repo contains a report I wrote and a presentation I gave for my CS771 class.
 
 Technologies used:
 
